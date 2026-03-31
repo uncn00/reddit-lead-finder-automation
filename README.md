@@ -11,4 +11,4 @@ An AI-powered automation tool that finds and scores high-intent leads from Reddi
 ## Usage
 This tool is designed for marketers, sales teams, and agencies looking to find potential customers on Reddit without manual searching.
 
-> **Note:** This is a simplified version of our premium product. For the complete solution with additional features, visit [our Gumroad page](https://uncai.gumroad.com/l/ai-powered-reddit-lead-finder).
+> **Note:** This is a simplified version of our premium product. For the complete solution with additional features, visit [our product page](https://www.etsy.com/listing/4396766590/reddit-lead-finder-automation-n8n).

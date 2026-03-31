@@ -2,7 +2,7 @@
 
 [![n8n](https://img.shields.io/badge/Workflow-n8n-FF6D5A?style=for-the-badge&logo=n8n)](https://n8n.io)
 [![AI](https://img.shields.io/badge/AI-Gemini_Driven-blue?style=for-the-badge&logo=google-gemini)](https://deepmind.google/technologies/gemini/)
-[![Purchase](https://img.shields.io/badge/Get_Full_System-Success?style=for-the-badge&logo=gumroad&color=34D399)](https://www.etsy.com/listing/4396766590/reddit-lead-finder-automation-n8n)
+[![Etsy](https://img.shields.io/badge/Get_Full_System-Success?style=for-the-badge&logo=etsy&color=F37121)](https://www.etsy.com/listing/4396766590/reddit-lead-finder-automation-n8n)
 
 **Stop scrolling. Start closing.** 🚀
 
